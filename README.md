@@ -2,7 +2,7 @@ A Gradle build template for ANTLR4 projects.  Just type "gradlew
 build" to compile the grammar files and begin using in your src/main
 and src/test source roots.
 
-This work inspired by
+This work was inspired by
 
 http://fenrock.wordpress.com/2012/05/17/gradle-and-antlr-3-x/
 
